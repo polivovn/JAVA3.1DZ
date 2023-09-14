@@ -12,4 +12,4 @@ public class BonusMilesService {
         return miles;
     }
 }
->>>>>>> 75334fc6c0319d5c3c1a292b76fd132d37c858ce
+
